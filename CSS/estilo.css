@@ -104,3 +104,12 @@ footer{
     display: flex;
     align-items: center;
 }
+
+.search-outline {
+    position: absolute;
+    left: 350px;
+    top: 60.5%;
+    transform: translateY(-50%);
+    font-size: 24px; 
+    color: #888; 
+}
